@@ -1,4 +1,4 @@
-## Redix
+## Redixx
 
 Minimal redis clone built in Python for the sake of learning
 
